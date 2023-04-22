@@ -1,4 +1,8 @@
 # thumbnail_creator
+
+latest release lets user chose the size ratio of logo
+
+
 tool that allow user to insert a logo into an image by seting X and Y position or just clicking on the image preview
 
 esta ferramenta permita inserir uma imagem em uma outra especificando a posicao ou simplesmente clicando no preview da imagem na posicao desejada!
